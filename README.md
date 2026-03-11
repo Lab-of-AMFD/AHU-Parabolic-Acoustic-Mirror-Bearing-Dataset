@@ -32,7 +32,13 @@ These datasets are publicly available, and anyone can use them to validate acous
 
 ### Experimental Platform
 
+![Experimental Platform](IMG/试验台示意照.jpg)
 
+Fig. 1. Acoustic mirror test bench.
+
+![Test Bearing](IMG/测试轴承.jpg)
+
+Fig. 2. Test bearing in different health conditions.
 
 To verify the feasibility of using a parabolic acoustic mirror for focused acoustic signal acquisition, the mirror was mounted at the shaft end in place of the traditional bearing end cap. This setup enabled the collection of acoustic signals from faulty bearings during operation.
 
