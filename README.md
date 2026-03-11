@@ -24,7 +24,7 @@ A unique feature of this dataset is that the acoustic signals were acquired simu
 
 These datasets are publicly available, and anyone can use them to validate acoustic fault diagnosis algorithms. Publications making use of the PAM-Bearing dataset are requested to cite the following paper:
 
-**L. Peng, F. Liu, M. Xia, C. Shen, Q. He, and Y. Liu, Parabolic Acoustic Mirror: Utilize the shape of its own housing to improve the online monitoring accuracy of rotating electromechanical equipment. IEEE Transactions on Industrial Electronics, 202x.**
+** **
 
 ---
 
