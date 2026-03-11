@@ -32,6 +32,8 @@ These datasets are publicly available, and anyone can use them to validate acous
 
 ### Experimental Platform
 
+
+
 To verify the feasibility of using a parabolic acoustic mirror for focused acoustic signal acquisition, the mirror was mounted at the shaft end in place of the traditional bearing end cap. This setup enabled the collection of acoustic signals from faulty bearings during operation.
 
 The experimental platform consisted of a base frame, a three-phase asynchronous motor, a Siemens frequency converter, and a custom bearing end-cap testing assembly. The testing assembly integrated the supporting bearing, test bearing, hydraulic loading device, parabolic acoustic mirror, acceleration sensors, and other relevant sensors. 
