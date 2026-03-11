@@ -7,8 +7,7 @@ We have released an open-source, dual-acquisition acoustic dataset for rolling b
 
 We hope this dataset can benefit your research in condition monitoring and signal processing.
 
-**Data on Google Drive:** [Insert Link Here]
-**Data on Quark Netdisk:** [https://pan.quark.cn/s/85eb2b903fea]
+**Data on Quark Netdisk:** [https://pan.quark.cn/s/3b4e2a05e5c3]
 
 **The following is a brief introduction to the dataset. For more detailed information, please refer to the dataset specification file.**
 
