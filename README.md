@@ -22,7 +22,7 @@ A unique feature of this dataset is that the acoustic signals were acquired simu
 * **PM:** With a parabolic acoustic mirror.
 * **DM:** With direct microphone acquisition.
 
-These datasets are publicly available, and anyone can use them to validate acoustic fault diagnosis algorithms. Publications making use of the PAM-Bearing dataset are requested to cite the following paper:
+These datasets are publicly available, and anyone can use them to validate acoustic fault diagnosis algorithms. Publications making use of the AHU Parabolic Acoustic Mirror Bearing Dataset are requested to cite the following paper:
 
 ** **
 
