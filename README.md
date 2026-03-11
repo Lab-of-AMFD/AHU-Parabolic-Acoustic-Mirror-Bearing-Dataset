@@ -97,4 +97,4 @@ The parameters of the faulty bearings and the parabolic acoustic mirror are show
 
 If you have any questions or suggestions, do not hesitate to contact:
 
-**[Linhao Peng]**, [plh1359020260@163.com]
+Mr. Linhao Peng, plh1359020260@163.com
