@@ -1,4 +1,4 @@
-# Parabolic Acoustic Mirror Bearing Dataset (PAM-Bearing)
+#AHU Parabolic Acoustic Mirror Bearing Dataset
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.PAM-Bearing-Dataset)
 
