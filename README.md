@@ -7,7 +7,7 @@ We have released an open-source, dual-acquisition acoustic dataset for rolling b
 
 We hope this dataset can benefit your research in condition monitoring and signal processing.
 
-**Data on Google Drive:** [https://drive.google.com/drive/folders/1ulrdVpR9A_Lw2zZFKPgl3xc-lJFyKZfk?usp=sharing]
+**Data on Google Drive:** [https://drive.google.com/drive/folders/1Ul3F-i-szqncYjdr7SBZS-g7-fdw6eT0?usp=sharing]
 
 **Data on Baidu Netdisk:** [https://pan.baidu.com/s/5pfg8gmeHHtIRalGg2WIt1w]
 
