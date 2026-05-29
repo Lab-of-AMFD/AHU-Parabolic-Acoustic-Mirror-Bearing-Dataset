@@ -25,7 +25,7 @@ A unique feature of this dataset is that the acoustic signals were acquired simu
 * **PM:** With a parabolic acoustic mirror.
 * **DM:** With direct microphone acquisition.
 
-These datasets are publicly available, and anyone can use them to validate acoustic fault diagnosis algorithms. Publications making use of the AHU Parabolic Acoustic Mirror Bearing Dataset are requested to cite the following paper:
+If you use the AHU Parabolic Acoustic Mirror Bearing Dataset in your research, please cite the following publications:
 
 [1] L. Peng, F. Liu*, M. Xia, C. Shen, Q. He, Y. Liu,“Bearing End-Cap with Parabolic Inner Surface Enabling High-Precision Online Monitoring of Rotating Electromechanical Equipment,” submitted to IEEE Transactions on Industrial Informatics, under review.
 
