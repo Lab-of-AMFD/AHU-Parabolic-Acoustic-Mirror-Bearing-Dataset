@@ -27,7 +27,11 @@ A unique feature of this dataset is that the acoustic signals were acquired simu
 
 These datasets are publicly available, and anyone can use them to validate acoustic fault diagnosis algorithms. Publications making use of the AHU Parabolic Acoustic Mirror Bearing Dataset are requested to cite the following paper:
 
-** **
+[1] Linhao Peng, Fang Liu*, Min Xia, Changqing Shen, Qingbo He, Yongbin Liu, “Bearing End-Cap with Parabolic Inner Surface Enabling High-Precision Online Monitoring of Rotating Electromechanical Equipment,” under review.
+
+[2] L. Peng, F. Liu*, A. Lu, Y. Liu, C. Shen, and M. Xia, “A unified Cross-Modal adaptive contrastive learning framework for acoustic fault diagnosis of rolling bearing under limited & imbalanced data,” Mechanical Systems and Signal Processing, vol. 244, Art. no. 113744, 2026.
+
+[3] L. Peng, F. Liu*, Z. Lv, Y. Liu, and M. Xia, “Phoneme-inspired acoustic frame embedded lightweight transformer for rolling bearing fault diagnosis,” Mechanical Systems and Signal Processing, vol. 248, Art. no. 114030, 2026.
 
 ---
 
