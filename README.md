@@ -27,11 +27,11 @@ A unique feature of this dataset is that the acoustic signals were acquired simu
 
 If you use the AHU Parabolic Acoustic Mirror Bearing Dataset in your research, please cite the following publications:
 
-[1] L. Peng, F. Liu*, M. Xia, C. Shen, Q. He, and Y. Liu, “Bearing End-Cap with Parabolic Inner Surface Enabling High-Precision Online Monitoring of Rotating Electromechanical Equipment,” IEEE Transactions on Industrial Informatics, accepted.
+[1] L. Peng, F. Liu*, M. Xia, C. Shen, Q. He, and Y. Liu, “Bearing End-Cap with Parabolic Inner Surface Enabling High-Precision Online Monitoring of Rotating Electromechanical Equipment,” IEEE Transactions on Industrial Informatics. https://doi.org/10.1109/TII.2026.3702967.
 
-[2] L. Peng, F. Liu*, A. Lu, Y. Liu, C. Shen, and M. Xia, “A unified Cross-Modal adaptive contrastive learning framework for acoustic fault diagnosis of rolling bearing under limited & imbalanced data,” Mechanical Systems and Signal Processing, vol. 244, Art. no. 113744, 2026.
+[2] L. Peng, F. Liu*, A. Lu, Y. Liu, C. Shen, and M. Xia, “A unified Cross-Modal adaptive contrastive learning framework for acoustic fault diagnosis of rolling bearing under limited & imbalanced data,” Mechanical Systems and Signal Processing, vol. 244, Art. no. 113744, 2026. https://doi.org/10.1016/j.ymssp.2025.113744.
 
-[3] L. Peng, F. Liu*, Z. Lv, Y. Liu, and M. Xia, “Phoneme-inspired acoustic frame embedded lightweight transformer for rolling bearing fault diagnosis,” Mechanical Systems and Signal Processing, vol. 248, Art. no. 114030, 2026.
+[3] L. Peng, F. Liu*, Z. Lv, Y. Liu, and M. Xia, “Phoneme-inspired acoustic frame embedded lightweight transformer for rolling bearing fault diagnosis,” Mechanical Systems and Signal Processing, vol. 248, Art. no. 114030, 2026. https://doi.org/10.1016/j.ymssp.2026.114030.
 
 ---
 
